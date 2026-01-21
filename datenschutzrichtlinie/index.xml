@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datenschutzerklärung – Sicherer Schutz Ihrer persönlichen Daten on Rolldorado</title>
-    <link>http://localhost:1313/datenschutzrichtlinie/</link>
+    <link>https://rolldoradoapp.de/datenschutzrichtlinie/</link>
     <description>Recent content in Datenschutzerklärung – Sicherer Schutz Ihrer persönlichen Daten on Rolldorado</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/datenschutzrichtlinie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rolldoradoapp.de/datenschutzrichtlinie/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

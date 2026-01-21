@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rolldorado Mobile: Top Casino &amp; Sportwetten-Erlebnis on Rolldorado</title>
-    <link>http://localhost:1313/</link>
+    <link>https://rolldoradoapp.de/</link>
     <description>Recent content in Rolldorado Mobile: Top Casino &amp; Sportwetten-Erlebnis on Rolldorado</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rolldoradoapp.de/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
